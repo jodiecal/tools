@@ -1,0 +1,3 @@
+curl https://radar.watchtower.ai/api/v1/scans/new \
+-u i6Pp7BS8uFZt2SHVrds9RwLZwePVWjiyN6XWC4IdfKw: \
+-d 'github_url=https://github.com/watchtowerdlp/sample'
